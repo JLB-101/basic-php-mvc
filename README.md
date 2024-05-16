@@ -1,6 +1,6 @@
 # basic-php-mvc
 
- uma estrutura básica simples em PHP MVC simples
+ uma estrutura básica simples em PHP MVC simples | 
  é uma estrutura simples com mvc de um projeto php
  
 # Comece um projecto PHP Facil
